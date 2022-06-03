@@ -1,6 +1,6 @@
 # plymouth-simplewallpaper
 
-A simple [plymouth][https://wiki.archlinux.org/title/Plymouth] theme that just
+A simple [plymouth](https://wiki.archlinux.org/title/Plymouth) theme that just
 shows a fullscreen image.
 
 ## How to use
