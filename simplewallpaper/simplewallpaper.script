@@ -1,0 +1,6 @@
+img = Image("wallpaper.png");
+width = Window.GetWidth();
+height = Window.GetHeight();
+img_resized = img.Scale(width, height);
+sprite = Sprite(img_resized);
+sprite.SetZ(-100);

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=simplewallpaper
+Description=Simple background image
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/simplewallpaper
+ScriptFile=/usr/share/plymouth/themes/simplewallpaper/simplewallpaper.script
